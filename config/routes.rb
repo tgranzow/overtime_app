@@ -1,5 +1,6 @@
 # config/routes.rb
 Rails.application.routes.draw do
+  resources :audit_logs
   namespace :admin do
     resources :users
     resources :posts
