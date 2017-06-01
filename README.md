@@ -25,4 +25,5 @@
 - Fix admin dashboard bug
 - Implement Honey badger error reporting
 - Implement Relic to keep site alive
+- Check on data issue and verify correct hours are being tracked
 ## TODOS:
