@@ -22,8 +22,8 @@
 - x Update buttons to include timestamp
 - x Update button sort order on employee homepage
 - x Remove unnecessary nav bar buttons for managers
-- Fix admin dashboard bug
-- Implement Honey badger error reporting
+- x Fix admin dashboard bug
+- x Implement Honey badger error reporting
 - Implement Relic to keep site alive
-- Check on data issue and verify correct hours are being tracked
+
 ## TODOS:
